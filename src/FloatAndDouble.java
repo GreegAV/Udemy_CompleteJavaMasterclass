@@ -25,7 +25,7 @@ public class FloatAndDouble {
         double convertedKilograms = numPounds * 0.45359237d;
         System.out.println("Kilograms = " + convertedKilograms);
         // 90.7185
-        double pi = 3_000_000.1415927d;
+        double pi = 3.1415927d;
         System.out.println(pi);
     }
 }
