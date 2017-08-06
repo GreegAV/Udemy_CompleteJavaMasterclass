@@ -17,4 +17,5 @@ public class CharAndBoolean {
         char registeredSymbol = '\u00AE';
         System.out.println("Registered symbol = " + registeredSymbol);
     }
+
 }
